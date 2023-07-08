@@ -1,8 +1,8 @@
 ---
-title: Absenteeism
-emoji: ⚡
-colorFrom: yellow
-colorTo: purple
+title: Absenteeism App
+emoji: 🐨
+colorFrom: indigo
+colorTo: blue
 sdk: streamlit
 sdk_version: 1.21.0
 app_file: app.py
